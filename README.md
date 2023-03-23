@@ -7,7 +7,7 @@ Usage:
 To utilize my assignment, you may view it from my github repository.
 
 Credit:
-Mu classmates and instructors in my bootcamp course.
+My classmates and instructors in my bootcamp course.
 
 License:
 N/A
