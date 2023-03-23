@@ -86,12 +86,12 @@ p {
     background-color: #2589bd;
 }
 
-article {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-h3 {
+.benefit-lead h3, .benefit-brand, .benefit-cost {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -127,6 +127,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
